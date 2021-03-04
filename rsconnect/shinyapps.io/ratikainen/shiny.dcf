@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: ratikainen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2624513
+bundleId: 3451383
+url: https://ratikainen.shinyapps.io/shiny/
+when: 1596044378.52997
